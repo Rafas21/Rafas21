@@ -89,6 +89,15 @@ Me chamo Rafael Souza de Morais, tenho 22 anos e sou de Goiânia - Goiás. Atual
 <br/>
 <br/>
 
+## Soft-Skills
+
+Alem de possuir habilidades em hard skills, tambem possuo soft skills bem apuradas como:
+
+- **Trabalho em equipe**
+- **Comunicação, aprendizado e proatividade**
+- **Experiências em metódos ágeis: Scrum/Kanban**
+- **Responsabilidade, organização e tomadas claras de decisões**
+
 ---
 
 ### 📊 Estatísticas
