@@ -96,7 +96,8 @@ Alem de possuir habilidades em hard skills, tambem possuo soft skills bem apurad
 - **Trabalho em equipe**
 - **Comunicação, aprendizado e proatividade**
 - **Experiências em metódos ágeis: Scrum/Kanban**
-- **Responsabilidade, organização e tomadas claras de decisões**
+- **Responsabilidade, organização e tomadas de decisões claras e coerentes**
+- **Lógica de programação e padrões de projetos**
 
 ---
 
